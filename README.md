@@ -33,6 +33,7 @@ Collect the normal or crash log in Android, then save them into files or upload 
  * @author Li Cong
  * @date 2014-3-23
  */
+
 public class LogApp extends Application {
 
 	@Override
@@ -130,6 +131,7 @@ Advance skills-2:
  * @author Li Cong
  * @date 2014-3-23
  */
+
 public class LogTask implements Runnable {
 
 	private void log2Network(String tag, String msg) {
@@ -202,6 +204,7 @@ Copyright, license and contact:
  * @author Li Cong
  * @date 2014-3-23
  */
+
 public class LogApp extends Application {
 
 	@Override
@@ -303,6 +306,7 @@ public static String encrypt(String str) {
  * @author Li Cong
  * @date 2014-3-23
  */
+
 public class LogTask implements Runnable {
 
 	private void log2Network(String tag, String msg) {
